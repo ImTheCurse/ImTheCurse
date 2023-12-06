@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Fiber](https://github.com/ImTheCurse/fiber)
 
-- 🌱 I’m currently learning **JS,React**
+- 🌱 I’m currently learning **Steganography**
 
 - 💬 Ask me about **Low Level Programming**
 
