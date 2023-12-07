@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rani</h1>
 <h3 align="center">A passionate software engineer from Israel</h3>
 
-- 🔭 I’m currently working on [Fiber](https://github.com/ImTheCurse/fiber)
+- 🔭 I’m currently working on [wavSteg](https://github.com/ImTheCurse/wavSteg)
 
 - 🌱 I’m currently learning **Steganography**
 
