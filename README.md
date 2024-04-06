@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rani</h1>
 <h3 align="center">A passionate software developer and student from Israel</h3>
 
-- 🔭 I’m currently working on [temp-folder](https://github.com/ImTheCurse/temp-folder)
+- 🔭 I’m currently working on Quokka - interpted language.
 
 - 🌱 I’m currently learning **Steganogtaphy**
 
