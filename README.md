@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rani</h1>
 <h3 align="center">A passionate software developer and student from Israel</h3>
 
-- 🔭 I’m currently working on Quokka - interpted language.
+- 🔭 I’m currently working on **ConflowCI**.
 
-- 🌱 I’m currently learning **Steganogtaphy**
+- 🌱 I’m currently learning **Korean**
 
-- 💬 Ask me about **low level programming**
+- 💬 Ask me about **Containerization technology**
 
 - ⚡ Fun fact **I used to fly planes**
 
