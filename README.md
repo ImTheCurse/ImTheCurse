@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rani</h1>
 <h3 align="center">A passionate software developer and student from Israel</h3>
 
-- 🔭 I’m currently working on **ConflowCI**.
+- 🔭 I’m currently working on **GameLens**.
 
 - 🌱 I’m currently learning **Korean**
 
