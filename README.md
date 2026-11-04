@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rani</h1>
 <h3 align="center">A passionate software developer and student from Israel</h3>
 
-- 🔭 I’m currently working on **GameLens**.
+- 🔭 I’m currently working on **health-cloud**, which is a health cloud prediction system based on metrics from weareables such as google's fibit air.
 
 - 🌱 I’m currently learning **Korean**
 
